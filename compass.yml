@@ -1,0 +1,14 @@
+name: QS
+id: ari:cloud:compass:b099cca4-e168-464e-955f-9bc5bd1e455b:component/3d461702-821a-4c5d-a6f6-eb922d0c914e/f0783d66-bb5e-4310-89d0-cd52289caeb7
+description: Sample code for Azure Communication Services JavaScript quickstarts
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
